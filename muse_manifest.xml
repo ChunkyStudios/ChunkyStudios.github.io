@@ -1,0 +1,113 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Anthony.Milicevic@sydstu.catholic.edu.au.com" resolutions="1x" timestamp="1534925783459">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="524737365" ref="about:index:contact:gallery"/>
+    <file name="about.css" crc="335165433" ref="about"/>
+    <file name="index.css" crc="4270979701" ref="index"/>
+    <file name="contact.css" crc="302795582" ref="contact"/>
+    <file name="gallery.css" crc="4053246076" ref="gallery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:gallery:contact"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:gallery:contact"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about:gallery:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:gallery:contact"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:gallery:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:about:gallery:contact"/>
+    <file name="webpro.js" crc="3770351119" ref="about:gallery:contact"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="about"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="about:gallery"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="about:gallery"/>
+    <file name="touchswipe.js" crc="3912873526" ref="about:gallery"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u592.php" crc="4002701838" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="24d6a0f21b0f3b6e34a51957c938fa5e.jpg" crc="236940236" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 492x450.png" crc="246474731" seo="true" ref="index:about:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:gallery"/>
+    <file name="chunky-studios.gif" crc="3954224326" seo="true" ref="index:about:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ws_old_beauty_1920x1200-u318-fr.jpg" crc="4009503815" ref="index"/>
+    <file name="green-oak-forest-mural-wallpaper-plain-u315-fr.jpg" crc="43444744" ref="index"/>
+    <file name="environment_4470_2x1-u287-fr.jpg" crc="3763004634" ref="index"/>
+    <file name="footertrees.gif" crc="483366868" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mountains_reasons_to_go_to_poland-960x360.jpg" crc="275747488" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="vineyards_reasons_to_go_to_croatia-960x360.jpg" crc="4184071397" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="desert_960_360.jpg" crc="412082503" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="solidtine_feature_960x3601.jpg" crc="4202594534" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="evening_960_360.jpg" crc="420656377" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="about:gallery"/>
+    <file name="narcos_still_5.jpg" crc="177782002" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="3zdy.gif" crc="438180454" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="out-of-town-cottage-located-in-the-woods-facade.jpg" crc="389777300" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="600x338xuncharted_4__a_thief_s_end__201605012104130-1024x576jpgpagespeedic5u161xgohb-crop-u522.jpg" crc="167933623" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="418807aea0a9e6f9cf43ab1082838aa5-crop-u1316.jpg" crc="4187345501" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="download.jpg" crc="3905287087" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u1356.jpg" crc="60313198" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="the-last-of-us-r-3-crop-u1376.jpg" crc="4232413010" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="600x338xuncharted_4__a_thief_s_end__201605012104130-1024x576jpgpagespeedic5u161xgohb-crop-u515.jpg" crc="452646818" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="418807aea0a9e6f9cf43ab1082838aa5-crop-u1322.jpg" crc="420757419" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="download-crop-u1342.jpg" crc="103479063" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u1362.jpg" crc="134621439" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="the-last-of-us-r-3-crop-u1382.jpg" crc="518878147" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="48438001" seo="true" mt="1534925748365" redirect="true"/>
+  <file name="about.html" crc="180530713" seo="true" mt="1534925748365" redirect="true"/>
+  <file name="gallery.html" crc="534300144" seo="true" mt="1534925748365" redirect="true"/>
+  <file name="contact.html" crc="4042314179" seo="true" mt="1534925748365" redirect="true"/>
+</manifest>
